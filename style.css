@@ -1,0 +1,24 @@
+/* Aqui esta a estilização do meu codigo */
+#relogio{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+
+
+}
+#corpo_relogio{
+    position:absolute;
+    width: 25%;
+}
+#minutos{
+    position:absolute;
+    width: 25%;
+}
+#hora{
+    position:absolute;
+    width: 25%;
+}
+#segundos{
+    position:absolute;
+    width: 25%;
+}
