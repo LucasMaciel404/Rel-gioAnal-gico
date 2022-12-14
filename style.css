@@ -1,11 +1,11 @@
-/* Aqui esta a estilização do meu codigo */
+/* centralizando meu relogio */
 #relogio{
     margin-top: 100px;
     display: flex;
     justify-content: center;
-
-
 }
+
+/* colocando o corpo do relogio e todos os ponteiros no mesmo lugar */
 #corpo_relogio{
     position:absolute;
     width: 25%;
